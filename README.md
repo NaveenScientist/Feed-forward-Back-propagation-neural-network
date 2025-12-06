@@ -17,6 +17,7 @@ Applied activation functions (ReLU / Sigmoid / Softmax based on dataset requirem
 
 Visualized loss curve, training convergence, and prediction performance.
 <img width="375" height="494" alt="Model Loss" src="https://github.com/user-attachments/assets/175a3938-fe7a-4d95-9581-dfd02edd5e2a" />
+
 <img width="470" height="502" alt="Model Accuracy" src="https://github.com/user-attachments/assets/13fcb608-ef3f-48a8-8053-7f07bfffdfae" />
 
 Compared manual neural network learning with Scikit-learn MLPClassifier as a benchmark.
