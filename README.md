@@ -49,6 +49,7 @@ Model generalized well for unseen data, showing strong classification accuracy (
 This project strengthens conceptual understanding of how modern deep learning frameworks operate internally.
 
 # Tech Stack
+
 Component	Tools
 Language	Python
 Libraries	NumPy, Pandas, Matplotlib, Scikit-learn (for benchmarking)
